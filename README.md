@@ -1,2 +1,2 @@
 # nsswitch-config
-next generation CLI for managing nsswitch-config files
+next generation CLI for managing nsswitch-config file
